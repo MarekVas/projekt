@@ -30,6 +30,7 @@ Otázky a odpovědi v krátkosti:
       2            4+1      1
 6. Existují zde inzerce bytů, které stojí více než 20.000 Kč?
    -> Neexistují
+
 7.jistěte minimální a maximální cenu inzerce pro každou dispozici bytu. Která dispozice má největší cenový rozptyl mezi minimální a maximální inzerovanou cenou?
     Rozdíly mezi nejlevnějším a nejdražším bytem pro každou dispozici:
       Dispozice bytu  Cena bytu
